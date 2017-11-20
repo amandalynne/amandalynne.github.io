@@ -2,6 +2,20 @@
 
 @charset "UTF-8";
 
+// Cormorant Light
+
+@font-face {
+  font-family: 'Cormorant Light';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/Cormorant-Light/Cormorant-Light.eot');
+  src: url('../fonts/Cormorant-Light/Cormorant-Light.eot?#iefix') format('embedded-opentype'),
+       local('Cormorant Light'),
+       local('Cormorant-Light'),
+       url('../fonts/Cormorant-Light/Cormorant-Light.woff2') format('woff2'),
+       url('../fonts/Cormorant-Light/Cormorant-Light.woff') format('woff'),
+       url('../fonts/Cormorant-Light/Cormorant-Light.ttf') format('truetype'),
+}
 
 // Cormorant Medium
 

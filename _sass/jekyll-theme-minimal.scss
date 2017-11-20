@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Cormorant Medium", Garamond, serif;
+  // font-family: "Cormorant Medium", Garamond, serif;
   color:#222;
   margin:0 0 20px;
 }
@@ -24,10 +24,12 @@ h1, h2, h3 {
 }
 
 h1 {
+  font-family: "Cormorant Medium", Garamond, serif;
   font-size:28px;
 }
 
 h2 {
+  font-family: "Cormorant Light", Garamond, serif;
   color:#393939;
 }
 
