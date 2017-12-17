@@ -1,1 +1,1 @@
-Welcome to my homepage. Please visit my academic website [here](https://linguistics.washington.edu/people/amandalynne-paullada).
+Welcome to my homepage. I am a PhD student in the [Department of Linguistics](https://linguistics.washington.edu) at the University of Washington. My research interests include natural language processing in the biomedical domain and computational social science. Please visit my academic website [here](https://linguistics.washington.edu/people/amandalynne-paullada).
