@@ -6,6 +6,6 @@ I am a native of Los Angeles, CA. Family and friends have often drawn me to Seou
 My favorite things to eat are generally spicy and/or fermented. I also love a good radish or carrot.  
 After a year and a half of living in Seattle, I still don't have fenders on my bike. I'll get around to it.  
  
-If I weren't a computational linguist, I'd be a park ranger or a musician. For now, I am a very amateur ecologist and I fiddle with bass guitar / keyboards / my dad's drumkit whenever I get a chance.  
+/* If I weren't a computational linguist, I'd be a park ranger or a musician. For now, I am a very amateur ecologist and I fiddle with bass guitar / keyboards / my dad's drumkit whenever I get a chance.  
 
-Wow, that's a lot of information about me. 
+Wow, that's a lot of information about me. */ 
