@@ -1,8 +1,12 @@
 # About me
 
-My professional and academic history are available in my resume and curriculum vitae, so this page is where you'll find miscellaneous biographical information.
+I am a native of Los Angeles, CA. My fondest memories of growing up there are of biking along the Orange Line path to get to my favorite parks and bookstores, running the LA Marathon in my junior year of high school, and hiking in the Santa Monica Mountains with my parents nearly every weekend. I also spent a lot of time going to shows and art galleries.  
 
-I am a native of Los Angeles, CA. Family and friends have often drawn me to Seoul, Korea, St. Paul MN, Chicago IL, Dallas TX, San Francisco CA, and Boston MA.  
-My favorite things to eat are generally spicy and/or fermented. I also love a good radish or carrot.  
-After a year and a half of living in Seattle, I still don't have fenders on my bike. I'll get around to it.  
+I graduated from UC Santa Cruz in 2012 with degrees in linguistics and economics. The spiel I gave at the time was that language and trade underpin all of human interaction, but really I just liked both subjects and wanted to major in both. 
+
+After about a year of moving up and down the California coast spent teaching myself how to code, taking various odd jobs and volunteerships, and ultimately landing a summer internship at the PanLex Project in San Francisco, I moved to Boston to start the Computational Linguistics MA program at Brandeis University. 
+
+In 2015, having finished at Brandeis, I joined SIFT as a researcher at their Lexington, MA office. I applied to PhD programs that fall and... 
+
+Now I live in Seattle.  
  
