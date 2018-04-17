@@ -4,4 +4,4 @@ Welcome to my homepage. I am a PhD student in the [Department of Linguistics](ht
 
 # News
 
-**Spring 2018** I am thrilled to have been selected as a Student Fellow for the [Data Science for Social Good](http://escience.washington.edu/get-involved/incubator-programs/data-science-for-social-good/) summer program at the eScience Institute at the University of Washington.
+**Summer 2018:** I am thrilled to have been selected as a Student Fellow for the [Data Science for Social Good](http://escience.washington.edu/get-involved/incubator-programs/data-science-for-social-good/) summer program at the eScience Institute at the University of Washington.
