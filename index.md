@@ -1,4 +1,4 @@
-<img src="/assets/pics/portrait.jpg" style="width:350px" alt="photo by Sara B. Ng">
+<img src="/assets/pics/portrait.jpg" style="width:350px" alt="photo by Sara B. Ng" class="center">
 
 # Hello
 
