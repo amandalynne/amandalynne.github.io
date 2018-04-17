@@ -1,4 +1,4 @@
-<img src="{{ site url }}/assets/pics/portrait.jpg" style="width:350px">
+<img src="/assets/pics/portrait.jpg" style="width:350px">
 
 # Hello
 
