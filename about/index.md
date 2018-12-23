@@ -1,6 +1,6 @@
 # About me
 
-I am a native of Los Angeles, CA. My fondest memories of growing up there are of biking along the Orange Line path to get to my favorite parks and bookstores, running the LA Marathon in my junior year of high school (plug for [SRLA](https://srla.org)), and hiking in the Santa Monica Mountains with my parents nearly every weekend. I also spent a lot of time going to shows and art galleries.  
+I grew up in Los Angeles, CA. My fondest memories of growing up there are of biking along the Orange Line path to get to my favorite parks and bookstores, running the LA Marathon in my junior year of high school (plug for [SRLA](https://srla.org)), and hiking in the Santa Monica Mountains with my parents nearly every weekend. I also spent a lot of time going to shows and art galleries.  
 
 I graduated from UC Santa Cruz in 2012 with degrees in linguistics and economics. The spiel I gave at the time was that language and trade underpin all of human interaction, but really I just liked both subjects and wanted to major in both. 
 
