@@ -1,4 +1,4 @@
-<img src="/assets/pics/portrait2019.jpg" title="photo by Monica Jensen" class="center">
+[//]: # <img src="/assets/pics/portrait2019.jpg" title="photo by Monica Jensen" class="center">
 
 # Hello
 
