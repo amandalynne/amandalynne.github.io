@@ -1,4 +1,4 @@
-<img src="/assets/pics/portrait.jpg" style="width:350px" title="photo by Sara B. Ng" class="center">
+<img src="/assets/pics/portrait2019.jpg" style="width:350px" title="photo by Monica Jensen" class="center">
 
 # Hello
 
