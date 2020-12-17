@@ -10,3 +10,7 @@ Previously, I have been a research intern on the [Semantic Scholar](https://www.
 ----
 
 # News
+
+**Dec 2020**    Our survey paper, [Data and its (dis)contents](https://arxiv.org/abs/2012.05345), received a Best Paper Award at the [ML Retrospectives Workshop](https://ml-retrospectives.github.io/neurips2020/) at NeurIPS 2020.  
+**Nov 2020**    I was named a [Rising Star in EECS](https://eecs.berkeley.edu/rising-stars-2020).  
+**Oct 2020**    I gave a talk at [Rsqrd AI](https://www.rsqrdai.org/).
