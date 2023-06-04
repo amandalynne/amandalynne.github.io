@@ -6,7 +6,7 @@ I am an NLM Postdoctoral Fellow at the University of Washington [Department of B
 ----
 
 # News
-
+**Jun 2023**    I developed and taught a seminar, Biomedical Applications of Language Technology (BIME 591 B).    
 **Jul 2022**    I spoke for the Pervasive Data Ethics (PERVADE) [webinar](https://pervade.umd.edu/webinar-series/) series.  
 **Dec 2021**    I have successfully defended my dissertation, *Considerations for the Social Impact of Natural Language Processing*.  
 **Aug 2021**    My article, [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/), is up at [The Gradient](https://thegradient.pub/about/).  
