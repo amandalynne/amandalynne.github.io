@@ -1,9 +1,7 @@
 
 # Hello
 
-I am an NLM Postdoctoral Fellow at the University of Washington [Department of Biomedical Informatics and Medical Education](http://bime.uw.edu/).
-
-I am looking for a job! 
+I am a part-time lecturer in the School of Nursing and Healthcare Leadership at the University of Washington, Tacoma.
 
 ----
 
