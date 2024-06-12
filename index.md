@@ -1,7 +1,7 @@
 
 # Hello
 
-I am a part-time lecturer in the School of Nursing and Healthcare Leadership at the University of Washington, Tacoma.
+**INACTIVE** during Summer 2024. Talk to me later!
 
 ----
 
