@@ -1,7 +1,9 @@
 
 # Hello
 
-**INACTIVE** during Summer 2024. Talk to me later!
+I am [Acting Assistant Professor](https://linguistics.washington.edu/people/amandalynne-paullada) in the Department of Linguistics at the University of Washington.
+
+This website is under construction. Check back later for more. 
 
 ----
 
