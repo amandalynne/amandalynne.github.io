@@ -7,7 +7,10 @@ This website is under construction. Check back later for more.
 
 ----
 
-# News
+# New
+**Autumn 2025** I am teaching [LING 571](https://linguistics.washington.edu/courses/2025/winter/ling/571/a): Deep Processing Techniques for Natural Language Processing.
+
+# Old
 **Nov 2023**    I am presenting at AMIA Annual Symposium in New Orleans.  
 **Jun 2023**    I developed and taught a seminar, Biomedical Applications of Language Technology (BIME 591 B). (I am teaching it again in Autumn 2023!)  
 **Jul 2022**    I spoke for the Pervasive Data Ethics (PERVADE) [webinar](https://pervade.umd.edu/webinar-series/) series.  
