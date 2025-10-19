@@ -78,7 +78,7 @@ a:hover {
 
 #navigation {
   text-align: center;
-  background-color: #39275B;
+  background-color: #107F7D;
   padding: 8px 31px 7px 31px;
   font-size: 14pt;
   color: #ffffff;
@@ -96,7 +96,7 @@ a:hover {
   padding: 8px 31px 7px 31px;
   font-size: 14pt;
   color: #000000;
-  background-color: #DFDDE8;
+  background-color: #094847;
 }
 
 #navigation a:visited, a:active {
@@ -105,6 +105,6 @@ a:hover {
 
 #navigation a:hover {
   color: #000000;
-  background-color: #DFDDE8;
+  background-color: #094847;
   padding-bottom: 8px;
 }
