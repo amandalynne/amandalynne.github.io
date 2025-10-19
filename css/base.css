@@ -74,3 +74,37 @@ a:hover {
     margin: 0;
   }
 }
+
+
+#navigation {
+  text-align: center;
+  background-color: #39275B;
+  padding: 8px 31px 7px 31px;
+  font-size: 14pt;
+  color: #ffffff;
+}
+
+#navigation a {
+  text-decoration: none;
+  padding: 8px 31px 7px 31px;
+  font-size: 14pt;
+  color: #ffffff;
+}
+
+#navigation b {
+  text-decoration: none;
+  padding: 8px 31px 7px 31px;
+  font-size: 14pt;
+  color: #000000;
+  background-color: #DFDDE8;
+}
+
+#navigation a:visited, a:active {
+  text-decoration: none;
+}
+
+#navigation a:hover {
+  color: #000000;
+  background-color: #DFDDE8;
+  padding-bottom: 8px;
+}
