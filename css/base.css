@@ -67,13 +67,12 @@ a:hover {
 }
 
 .c-nav {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-
-  display: flex;
-  justify-content: center;
-  gap: 10px;
+    list-style: none;
+    padding: 8px 31px 7px 31px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 14pt;
 }
 
 .c-nav__item { }
