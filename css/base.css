@@ -67,28 +67,23 @@ a:hover {
 }
 
 
-ul {
-  list-style-type: none;
+.c-nav {
+  border: 1px solid #ccc;
+  border-width: 1px 0;
+  list-style: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
 
-ul li {
-  float: left;
-}
+  .c-nav__item { }
 
-ul li a {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-ul li a:hover {
-  text-decoration: underline;
-}
+    .c-nav__link {
+      display: block;
+    }
 
 
 /* media query for small screens */
