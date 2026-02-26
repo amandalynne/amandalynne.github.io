@@ -57,13 +57,13 @@ p {
 /* links */
 
 a {
-  color: #237b93;
-  text-decoration: underline;
+  color: #AA4465;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #AA4465;
-  text-decoration: none;
+  color: #CC76A1;
+  text-decoration: underline;
 }
 
 
