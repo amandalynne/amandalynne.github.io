@@ -77,8 +77,16 @@ a:hover {
 
 .c-nav__item { }
 
+
 .c-nav__link {
-    display: block;
+  display: inline-block;
+  margin-right: 20px;
+  color: #AA4465;
+  text-decoration: none;
+}
+
+.c-nav__link:hover {
+  color: #E6547B;
 }
 
 
